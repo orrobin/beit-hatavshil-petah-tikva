@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://orrobin.github.io/beit-hatavshil-petah-tikva/sitemap.xml
